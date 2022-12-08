@@ -1,0 +1,5 @@
+./TRAIN_DIR/
+.idea
+MyEnv
+__pycache__
+venv
